@@ -11,6 +11,9 @@ struct ContentView: View {
                 Text("Hello, world!")
                 Text("Hello, world!")
                 Text("Hello, world!")
+                Text("Hello, world!")
+
+                
             }.navigationBarTitle(Text("Storm Viewer"))
         }
     }
